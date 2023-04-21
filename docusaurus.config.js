@@ -68,7 +68,7 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "My Site",
+        title: "Stone Website",
         logo: {
           alt: "My Site Logo",
           src: "img/logo.svg",
@@ -78,7 +78,7 @@ const config = {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Tutorial",
+            label: "Note",
           },
           { to: "/blog", label: "Blog", position: "left" },
           { to: "/about", label: "About", position: "left" },
@@ -90,13 +90,13 @@ const config = {
         ],
       },
       colorMode: { defaultMode: "light", disableSwitch: false },
-      announcementBar: {
-        id: "support_us",
-        content: "🤙屬於sdlsdlksl",
-        backgroundColor: "#091E42",
-        textColor: "#fff",
-        isCloseable: false,
-      },
+      // announcementBar: {
+      //   id: "support_us",
+      //   content: "🤙這裡記錄著我學習的筆記和生活點滴",
+      //   backgroundColor: "#091E42",
+      //   textColor: "#fff",
+      //   isCloseable: false,
+      // },
       footer: {
         style: "dark",
         links: [
@@ -140,7 +140,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Stone, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

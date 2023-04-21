@@ -1,6 +1,11 @@
-# Redux 學習
+---
+authors:
+name: Stone
+title: "[Redux] Redux Toolkit"
+tags: [React, Redux, Redux Toolkit]
+---
 
-###### tags: `前端筆記`
+# Redux 學習
 
 ## 目錄
 
@@ -47,7 +52,7 @@ redux 沒有包含在 reacct 裡面但很長跟 react 一起使用，來當作 r
    - yarn :yarn add react-redux @reduxjs/toolkit
 3. 套件安裝完後，先把 app.tsx , app.css 整理一下，把不必要的東西刪掉
 
-   ```ts title="app.tsx"
+   ```ts title="app.tsx" showLineNumbers
    import "./App.css";
 
    function App() {
@@ -61,7 +66,7 @@ redux 沒有包含在 reacct 裡面但很長跟 react 一起使用，來當作 r
    export default App;
    ```
 
-   ```css title="app.css"
+   ```css title="app.css" showLineNumbers
    * {
      box-sizing: border-box;
      margin: 0;
@@ -80,7 +85,7 @@ redux 沒有包含在 reacct 裡面但很長跟 react 一起使用，來當作 r
 
 4. 在 src 內新增 features 的資料夾，並新增一個 store.ts 的檔案
 
-   ```ts title="src/features/store.ts"
+   ```ts title="src/features/store.ts" showLineNumbers
    //configureStore 是Redux Toolkit 中提供的一個函數
    //用來建立 Redux store，它可以自動化一些常見的 Redux 配置任務
    import { configureStore } from "@reduxjs/toolkit";
@@ -109,7 +114,7 @@ redux 沒有包含在 reacct 裡面但很長跟 react 一起使用，來當作 r
 
 > 這樣一來，我們可以直接使用 counterSlice.actions.increment、counterSlice.actions.decrement 和 counterSlice.actions.incrementByAmount 來觸發對應的 action，而不需要自己手動定義每個 action。同時，這些 action 會自動對應到 counterSlice.reducer 中定義的 reducers，並更新 counter slice 的狀態。
 
-```ts title="src/feature/counter/counterSlice.ts"
+```ts title="src/feature/counter/counterSlice.ts" showLineNumbers
 // counterSlice.ts
 
 // 匯入 Redux Toolkit 中的 createSlice 函數
@@ -187,7 +192,7 @@ useSelector 和 useDispatch 是 react-redux 套件提供的 Hooks。
 
 - useDispatch : react-redux 提供的 Hook，用於獲取 Redux store 的 dispatch 函式，在 React component 中發送 action 到 Redux store。
 
-```tsx title="src/Components/Counter.tsx"
+```tsx title="src/Components/Counter.tsx" showLineNumbers
 // import  React Redux 中的 useSelector 和 useDispatch hooks
 import { useSelector, useDispatch } from "react-redux";
 import {
@@ -223,7 +228,7 @@ export default Counter;
 
 6. 接著再將 Counter component 在 App.tsx import 即可以顯示剛剛透用 Redux Toolkit 的成果
 
-```tsx title="App.tsx"
+```tsx title="App.tsx" showLineNumbers
 import React from "react";
 import "./App.css";
 import Counter from "./components/Counter";
@@ -255,14 +260,3 @@ Redux 的應用中心化管理狀態的方式可以幫助優化性能，避免�
 而 React useContext 在每次上層組件更新時都會重新渲染，可能對性能產生一定的影響。因此，當應用規模較大，組件層級結構複雜，且需要高性能的情境下，Redux 可能更適合。
 
 而經過 react 不斷地發展迭代之後，React useContext 也可以在適當的情境下和較小規模的專案提供良好的性能表現，對於小型應用或者功能較簡單的情境，React useContext 會更加簡單和方便，由於規模不大且現今系統運行的裝置和網路速度都有所提升下，React useContext 可以是一個方便、輕量級且高效的狀態管理方案。
-
----
-
-title: 一篇包含标签的文档
-id: my-home-doc
-slug: /
-
-- 演示
-- 开始上手
-
----
