@@ -6,7 +6,7 @@ const Works = () => {
   return (
     <Layout>
       <div>Works</div>
-      <WorkCard />
+      {/* <WorkCard /> */}
     </Layout>
   );
 };
