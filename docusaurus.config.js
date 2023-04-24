@@ -6,6 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  // plugins: [require.resolve('@docusaurus/plugin-google-analytics')]
   title: "SHIH",
   tagline: "Dinosaurs are cool",
   favicon: "img/favicon.ico",
@@ -32,6 +33,17 @@ const config = {
     locales: ["zh-Hant", "en"],
   },
 
+  plugins: [
+    [
+      "docusaurus-plugin-sass",
+      {
+        sassOptions: {
+          includePaths: ["./src/css", "./src/sass", "./src/components/sass"],
+        },
+      },
+    ],
+  ],
+
   presets: [
     [
       "classic",
@@ -39,6 +51,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
+          routeBasePath: "/",
 
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -54,9 +67,8 @@ const config = {
           // editUrl:
           //   "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
-
         theme: {
-          customCss: require.resolve("./src/css/custom.css"),
+          customCss: [require.resolve("./src/css/custom.sass")],
         },
       }),
     ],
@@ -81,6 +93,7 @@ const config = {
             label: "Note",
           },
           { to: "/blog", label: "Blog", position: "left" },
+          { to: "/Works", label: "作品集", position: "left" },
           { to: "/about", label: "About", position: "left" },
           {
             href: "https://github.com/85223",
@@ -89,14 +102,7 @@ const config = {
           },
         ],
       },
-      colorMode: { defaultMode: "light", disableSwitch: false },
-      // announcementBar: {
-      //   id: "support_us",
-      //   content: "🤙這裡記錄著我學習的筆記和生活點滴",
-      //   backgroundColor: "#091E42",
-      //   textColor: "#fff",
-      //   isCloseable: false,
-      // },
+      colorMode: { defaultMode: "dark", disableSwitch: false },
       footer: {
         style: "dark",
         links: [
@@ -104,8 +110,8 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/intro",
+                label: "Note",
+                to: "/docs",
               },
             ],
           },

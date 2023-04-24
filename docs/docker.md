@@ -1,5 +1,5 @@
 ---
-authors:
+authors: MichaelJack
 name: Stone
 title: "[Docker] Docker初探筆記"
 tags: [docker]

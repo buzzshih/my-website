@@ -1,5 +1,5 @@
 ---
-authors:
+authors: MichaelJack
 name: Stone
 title: "[Concept]淺談物件導向關於繼承這件事情"
 tags: [OOP, Inheritance, Python, Interface, Composition, Duck Typing, Multiple Inheritance]

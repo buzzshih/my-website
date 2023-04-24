@@ -1,5 +1,5 @@
 ---
-authors:
+authors: MichaelJack
 name: Stone
 title: "[mindAR] 以mindAR實現webAR"
 tags: [webar, mindar, ar, html, css, javascript]
