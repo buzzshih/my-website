@@ -111,7 +111,7 @@ const config = {
             items: [
               {
                 label: "Note",
-                to: "/docs",
+                to: "/",
               },
             ],
           },
