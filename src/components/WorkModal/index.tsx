@@ -1,4 +1,4 @@
-import classes from "./WorkModal.module.css";
+import classes from "./WorkModal.module.sass";
 import { Modal } from "antd";
 import React, { useEffect } from "react";
 
