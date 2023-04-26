@@ -1,5 +1,10 @@
+@import "../../css/_mixins.sass"
+@import "../../css/_variables.sass"
+
 .workCardWrapper
   display: grid
   grid-template-columns: repeat(3, auto)
+  +rwd-gt(tablet-sm)
+     grid-template-columns: repeat(1, auto)
   justify-content: center
   
