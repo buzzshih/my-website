@@ -103,7 +103,7 @@ const config = {
           },
         ],
       },
-      colorMode: { defaultMode: "dark", disableSwitch: false },
+      colorMode: { defaultMode: "dark", disableSwitch: true },
       footer: {
         style: "dark",
         links: [
