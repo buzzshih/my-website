@@ -8,8 +8,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   // plugins: [require.resolve('@docusaurus/plugin-google-analytics')]
   title: "SHIH",
-  tagline: "Dinosaurs are cool",
-  favicon: "img/favicon.ico",
+  tagline: "MichaelJack 開發隨手筆記和部落格分享",
+  // favicon: "img/favicon.ico",
 
   // Set the production url of your site here
   url: "https://stone-website.vercel.app/",
@@ -81,10 +81,10 @@ const config = {
       image: "img/docusaurus-social-card.jpg",
       navbar: {
         title: "MichaelJack Website",
-        logo: {
-          alt: "My Site Logo",
-          src: "img/logo.svg",
-        },
+        // logo: {
+        //   alt: "My Site Logo",
+        //   src: "img/logo.svg",
+        // },
         items: [
           {
             type: "docSidebar",
