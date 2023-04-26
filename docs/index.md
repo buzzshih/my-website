@@ -1,6 +1,6 @@
 ---
 title: 📝目錄
-description: Stone技術部落格筆記的目錄
+description: MichaelJack開發筆記的目錄
 sidebar_position: 1
 ---
 

@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   // plugins: [require.resolve('@docusaurus/plugin-google-analytics')]
-  title: "SHIH",
+  title: "MichaelJack 開發隨手筆記和部落格分享",
   tagline: "MichaelJack 開發隨手筆記和部落格分享",
   // favicon: "img/favicon.ico",
 
