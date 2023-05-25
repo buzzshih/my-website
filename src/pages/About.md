@@ -10,20 +10,28 @@ Hello, 我是**石宇翔**，從事軟體開發差不多有三年資歷，在研
 
 ## 網頁前端技能
 
-    - Basics：Html5 ｜ CSS3 ｜ RWD ｜ JavaScript ｜ TypeScript
+    - 使用 React 和 Next.js 前端框架搭配Typescript開發網頁專案。
 
-    - Styling：Sass ｜ CSS in JS ｜ Antd
+    - 使用 React Hooks 和 Functional Component方式進行開發，提升開發效率和程式碼可讀性。
 
-    - Frontend Frameworks：React | Next & hooks Building
+    - 以 Typescript 為基礎進行開發，利用靜態類型檢查提供在開發上可以快速了解變數型別及類型定義。
 
-    - Tools：Npm & Yarn Dev
+    - 善用Sass 在 React 專案開發上進行樣式設計。
 
-    - Skills： Git Version Control
+    - 熟悉 React 生態系統，應用常見的第三方庫和工具（如 React Router、Axios 等）進行路由導航和 API 連接。
 
-    - Testing：Unit Testing | Integration Testing
+    - 使用 Postman 與後端工程師進行 API 溝通和測試
+
+    - 介接過 LINE LIFF（LINE Front-end Framework）應用程式經驗。
+
+    - 使用mindAR、A-Frame 框架搭配Html、Css、Javascript 開發 WebAR 專案。
 
 ## 其他技能
 
-    - 程式語言： C#
+    - 在 Unity3D 遊戲引擎中使用 C# 語言開發 AR / VR 和體感相關系統。
 
-    - 遊戲及數位內容開發： Unity3D ｜ Unreal4
+    - 使用 Vuforia 套件搭配 Unity3D 開發 AR 專案。
+
+    - 使用 Unity3D 整合 Hololens 開發 AR 應用的經驗。
+
+    - 使用 Unity3D 整合體感裝置( Leap Motion、Kinect、) 開發體感互動系統。
