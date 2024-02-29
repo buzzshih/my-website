@@ -1,6 +1,6 @@
 ---
-authors: MichaelJack
-name: Stone
+authors: Buzz
+name: Buzz
 title: "[Concept]淺談物件導向關於繼承這件事情"
 tags: [OOP, Inheritance, Python, Interface, Composition, Duck Typing, Multiple Inheritance]
 ---

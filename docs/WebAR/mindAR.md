@@ -1,6 +1,6 @@
 ---
-authors: MichaelJack
-name: Stone
+authors: Buzz
+name: Buzz
 title: "[mindAR] 以mindAR實現webAR"
 tags: [webar, mindar, ar, html, css, javascript]
 ---
@@ -553,7 +553,7 @@ SOFTWARE.
 2. Aframe - https://aframe.io/
 3. Three.js - https://threejs.org/
 4. MindAR - https://github.com/hiukim/mind-ar-js
-5. 互動名片 - https://github.com/85223/cjcu-ARBusinessCard
+5. 互動名片 - https://github.com/buzzshih/cjcu-ARBusinessCard
 
 <!-- ## 最後給予今天課程一點反饋吧，問卷網址如下
 

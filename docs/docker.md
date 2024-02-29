@@ -1,6 +1,6 @@
 ---
-authors: MichaelJack
-name: Stone
+authors: Buzz
+name: Buzz
 title: "[Docker] Docker初探筆記"
 tags: [docker]
 ---

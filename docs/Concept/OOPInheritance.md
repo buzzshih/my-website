@@ -1,6 +1,6 @@
 ---
-authors: MichaelJack
-name: Stone
+authors: Buzz
+name: Buzz
 title: "淺談物件導向關於繼承這件事情"
 tags: [OOP, Inheritance]
 ---

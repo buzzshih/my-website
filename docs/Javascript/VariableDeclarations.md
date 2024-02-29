@@ -1,6 +1,6 @@
 ---
-authors: MichaelJack
-name: MichaelJack
+authors: Buzz
+name: Buzz
 title: "[JS] 變數宣告"
 tags: [Javascript]
 ---

@@ -1,6 +1,6 @@
 ---
-authors: MichaelJack
-name: Stone
+authors: Buzz
+name: Buzz
 title: "[ReactDoc]React 中的 State 和 Props 到底差在哪"
 tags: [React, Props, State]
 ---

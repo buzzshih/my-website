@@ -81,7 +81,7 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "MichaelJack Website",
+        title: "Buzz Website",
         // logo: {
         //   alt: "My Site Logo",
         //   src: "img/logo.svg",
@@ -98,7 +98,7 @@ const config = {
           { to: "/about", label: "About", position: "left" },
           { to: "/changelog", label: "ChangeLog", position: "left" },
           {
-            href: "https://github.com/85223",
+            href: "https://github.com/buzzshih",
             label: "GitHub",
             position: "right",
           },
@@ -148,7 +148,7 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} MichaelJack, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Buzz, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

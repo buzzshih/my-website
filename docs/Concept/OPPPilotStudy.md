@@ -1,6 +1,6 @@
 ---
-authors:
-name: Stone
+authors: Buzz
+name: Buzz
 title: "物件導向基本概念 - 初探"
 tags: [OOP, Inheritance, Python, Pilot Study]
 ---

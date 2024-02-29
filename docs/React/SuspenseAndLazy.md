@@ -1,6 +1,6 @@
 ---
-authors: MichaelJack
-name: Stone
+authors: Buzz
+name: Buzz
 title: "[ReactDoc] Suspense and Lazy"
 tags: [React, Suspense, Lazy]
 ---

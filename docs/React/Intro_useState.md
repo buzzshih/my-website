@@ -1,6 +1,6 @@
 ---
-authors: MichaelJack
-name: MichaelJack
+authors: Buzz
+name: Buzz
 title: "[Redux] React Hooks - useState "
 tags: [React, Hooks, Javascript, useState]
 ---

@@ -1,6 +1,6 @@
 ---
-authors:
-name: MichaelJack
+authors: Buzz
+name: Buzz
 title: "[Redux] Quick Start "
 tags: [React, Hooks, Javascript]
 ---

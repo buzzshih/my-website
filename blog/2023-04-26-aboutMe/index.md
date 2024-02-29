@@ -1,6 +1,6 @@
 ---
 title: 從Unity工程師轉職為前端工程師
-authors: MichaelJack
+authors: Buzz
 # tags: [facebook, hello, docusaurus]
 ---
 

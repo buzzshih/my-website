@@ -1,6 +1,6 @@
 ---
-authors:
-name: Stone
+authors: Buzz
+name: Buzz
 title: "[Redux] Redux Toolkit"
 tags: [React, Redux, Redux Toolkit]
 ---

@@ -1,6 +1,6 @@
 ---
-authors: MichaelJack
-name: MichaelJack
+authors: Buzz
+name: Buzz
 title: "HTTP 基本知識筆記"
 tags: [Webknowledge, Http]
 ---

@@ -1,6 +1,6 @@
 ---
-authors: MichaelJack
-name: MichaelJack
+authors: Buzz
+name: Buzz
 title: "[JS] Hoisting"
 tags: [Javascript]
 ---
