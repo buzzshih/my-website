@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://buzzshih.github.io/blog</id>
+    <id>https://buzzshih.github.io/my-website/blog</id>
     <title>Buzz 開發隨手筆記和部落格分享 Blog</title>
     <updated>2023-04-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://buzzshih.github.io/blog"/>
+    <link rel="alternate" href="https://buzzshih.github.io/my-website/blog"/>
     <subtitle>Buzz 開發隨手筆記和部落格分享 Blog</subtitle>
     <entry>
         <title type="html"><![CDATA[從Unity工程師轉職為前端工程師]]></title>
-        <id>https://buzzshih.github.io/blog/2023/04/26/aboutMe</id>
-        <link href="https://buzzshih.github.io/blog/2023/04/26/aboutMe"/>
+        <id>https://buzzshih.github.io/my-website/blog/2023/04/26/aboutMe</id>
+        <link href="https://buzzshih.github.io/my-website/blog/2023/04/26/aboutMe"/>
         <updated>2023-04-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[從Unity工程師轉職為前端工程師]]></summary>
-        <content type="html"><![CDATA[<p><img loading="lazy" alt="從Unity工程師轉職為前端工程師" src="/assets/images/20230426blog-0c705df6983b514c016f80f42910b8e4.jpg" width="4032" height="3024" class="img_ev3q">
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="從Unity工程師轉職為前端工程師" src="/my-website/assets/images/20230426blog-0c705df6983b514c016f80f42910b8e4.jpg" width="4032" height="3024" class="img_ev3q">
 我大學就讀的是資管系，大一大二混合著很多不同的專業領域，有計概、會計學、經濟學、基礎程式設計、統計學等等，由於我是讀高中是讀綜合高中的資料處理學程，所以基本上大一大二的課程我高中都聽過了，考試基本上我不準備也會有個 70 分，所以當時我就覺得大學應該就這麼簡單，我只要不要被當就好，很消極的態度覺得反正距離出社會的時間還長我到時候再看我要走哪一條路就好。</p><p>直到我在大二下去幫忙學長姐畢業專題的工作人員，我才對資訊領域抑或是這個科系有了一個想像，但這個想像很模糊，我只有想著我一定要認真做畢業專題，但我什麼都不會。
 還記得當時畢業專題在選擇主題的時候，我們想說要找個新穎又少人做的主題來下手，突然有個組員說：“ 那我們來做虛擬實境吧～！”，很有行動力的我們，隔天我們就直接去找相關專業背景的教授來當指導教授，教授也順利答應接下我們這群無知的死大學生。
 也是在這段時間開始使用 Unity 開發畢業專題需要的系統，才漸漸認識到程式設計的基本概念。</p><p>後續畢業專題做完即將升上大四，大家都實習的去實習，打工的去打工，但我當時其實有點慌張，我不知道我可以幹嘛，即便前面有了一年的畢業專題實作經驗，但那點皮毛也不足以去找軟體工程師的工作，我便去找了畢業專題的指導教授聊聊，我直接問教授說，假如我想要成為一個軟體工程師，老師你認為我可以做到嗎？老師跟我講了許多，最後我留下來唸研究所除了利用這兩年還是學生的身份繼續探索自己，也是用這兩年的時間學習如何從無到有自己建構一個系統。也對寫程式這件事情有了更多的自信心和能力上的提升。</p><p>出社會的時候我選擇先去找新創公司的職缺，因為我認為在大公司的職責分屬很專精能碰到的任務都是相對類似且單一的，但新創公司或是小公司的職責分屬就沒那麼明顯和人力相對精簡的情況下，這樣的情況下可以接觸到的工作面相和任務都相對較高多樣性，而這也是我要的，因為我還不知道我到底該朝何種類型的領域前進。

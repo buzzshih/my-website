@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8482],{3626:e=>{e.exports=JSON.parse('{"label":"Redux","permalink":"/en/tags/redux","allTagsPath":"/en/tags","count":1,"items":[{"id":"React/ReduxToolkit","title":"[Redux] Redux Toolkit","description":"\u76ee\u9304","permalink":"/en/React/ReduxToolkit"}]}')}}]);
