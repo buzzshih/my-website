@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8166],{877:e=>{e.exports=JSON.parse('{"label":"useState","permalink":"/en/tags/use-state","allTagsPath":"/en/tags","count":1,"items":[{"id":"React/Intro_useState","title":"[Redux] React Hooks - useState ","description":"tags: React","permalink":"/en/React/Intro_useState"}]}')}}]);

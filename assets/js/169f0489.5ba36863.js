@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6366],{9769:e=>{e.exports=JSON.parse('{"label":"webar","permalink":"/tags/webar","allTagsPath":"/tags","count":1,"items":[{"id":"WebAR/mindAR","title":"[mindAR] \u4ee5mindAR\u5be6\u73fewebAR","description":"Agenda","permalink":"/WebAR/mindAR"}]}')}}]);
