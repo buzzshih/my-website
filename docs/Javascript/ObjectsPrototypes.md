@@ -49,6 +49,7 @@ function Point(x = 0, y = 0) {
 }
 
 // 使用建構函式建立 Object 實例
+
 const point1 = new Point(1, 2);
 const point2 = new Point(10, 20);
 
